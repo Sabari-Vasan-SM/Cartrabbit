@@ -22,9 +22,12 @@ For Login As Owner (email :admin@gmail.com, password :admin)
 For Customer (Create an account)
 
 
--Frontend :	Vercel	
--Backend	 : Render	
--Database	: MongoDB Atlas	Cloud-hosted
+- Frontend :	Vercel
+
+- Backend	 : Render	
+
+- Database	: MongoDB Atlas	Cloud-hosted
+
 ---
 
 ## 📂 Database Schema

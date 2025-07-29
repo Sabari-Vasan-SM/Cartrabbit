@@ -17,6 +17,10 @@ Its an full-featured bike service management platform for customers and workshop
 - 📧 **Email Notifications:** Nodemailer for sending confirmation and updates
 
 ---
+## 🚀 Deployment : https://cartrabbit-alpha.vercel.app/
+For Login As Owner (email :admin@gmail.com, password :admin)
+For Customer (Create an account)
+---
 
 ## 📂 Database Schema
 

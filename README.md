@@ -8,8 +8,8 @@ Its an full-featured bike service management platform for customers and workshop
 ## 🛠️ Tech Stack
 
 - ⚛️ **Frontend:** React.js (Functional Components + Hooks)  
-- 🖥️ **Backend:** Node.js with Express.js  
-- 🗃️ **Database:** MongoDB  
+- 🖥️ **Backend:** Node.js 
+- 🗃️ **Database:** MongoDB Atlas
 - 🎨 **Styling:** CSS Modules, Material-UI  
 - 🧭 **Routing:** React Router  
 - 🔣 **Icons:** Material-UI Icons  
@@ -20,6 +20,11 @@ Its an full-featured bike service management platform for customers and workshop
 ## 🚀 Deployment : https://cartrabbit-alpha.vercel.app/
 For Login As Owner (email :admin@gmail.com, password :admin)
 For Customer (Create an account)
+
+
+-Frontend :	Vercel	
+-Backend	 : Render	
+-Database	: MongoDB Atlas	Cloud-hosted
 ---
 
 ## 📂 Database Schema

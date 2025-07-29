@@ -1,5 +1,5 @@
 
-# 🚴‍♂️ CartRabbit Bike Service Management System
+# 🚴‍♂️ CartRabbit Bike Service System
 
 Its an full-featured bike service management platform for customers and workshop owners. It offers a seamless experience for booking, managing, and tracking bike services with ease.
 
@@ -151,4 +151,4 @@ Its an full-featured bike service management platform for customers and workshop
 
 ---
 
-✅ Built with ❤️ by [Your Name or Team Name]
+✅ Built with ❤️ by Sabarivasan
